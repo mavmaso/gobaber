@@ -1,2 +1,2 @@
 # gobarber
-# gobaber
+# gobarber backend
